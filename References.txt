@@ -1,0 +1,9 @@
+Research Papers (Stage 1) forming the problem statement
+
+https://www.researchgate.net/profile/Seena-Korra/publication/332034361_Smart_healthcare_monitoring_system_using_raspberry_Pi_on_IoT_platform/links/5f1187a692851c1eff184756/Smart-healthcare-monitoring-system-using-raspberry-Pi-on-IoT-platform.pdf
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8266689/
+
+https://www.hindawi.com/journals/misy/2021/8278612/
+
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00507-w
