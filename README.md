@@ -22,8 +22,6 @@ Internship project at the International Centre for Emerging Technologies (ICET):
 | `References.txt` | Research papers behind the problem statement |
 | `Sample_Output.png` | Example detection result |
 
-The repository also contains saved web page files (`.html`, `.css`, `.download`) from a Colab page export. They are not needed to understand or run the project.
-
 ## License
 
 See [LICENSE](LICENSE).
